@@ -15,3 +15,4 @@ A python based cli todo application.
 ![My Image](Assets/Update.png)
 
 ### Complete & Delete command
+![My Image](Assets/cd.png)
