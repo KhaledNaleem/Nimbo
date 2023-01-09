@@ -1,11 +1,14 @@
 # Nimbo
-A python based cli todo application.
+<p>A python based cli todo application.</p>
+
+![My Image](Assets/nb.png)
+
 
 #### Pip packages used:
 <p>• Rich
 <p>• Typer
 
-### Show command
+### --help and Show command
 ![My Image](Assets/Show.png)
 
 ### Add command
